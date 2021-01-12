@@ -1,1 +1,6 @@
-This program runs off Java 8 and Java applet. 
+For my final assignment in Honors Intro to CS, I programmed a mashup of the games "Asteroids" and
+"Rock, Paper, Scissors, Lizard, Spock" (from the Big Bang Theory). I used a number of design patterns,
+namely the Factory, Strategy, Builder patterns, to write cleaner and more maintainable code. Please
+see the attached UML diagaram to this repository for a closer look at my class structure. 
+
+This program runs off Java 8 and Java applet from the Playground.java class. 
